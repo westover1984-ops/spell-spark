@@ -1,5 +1,6 @@
 "use server";
 
+import { revalidatePath } from "next/cache";
 import { supabaseAdmin } from "../../lib/supabaseClient";
 
 function assertTeacher(secret) {
