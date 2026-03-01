@@ -1,0 +1,4 @@
+:root { --bg: #0b1020; --card: #121a33; --text: #e8ecff; --muted: #aab2d5; --accent: #7c5cff; --ok: #35d07f; --bad: #ff4d6d; }
+* { box-sizing: border-box; }
+a { color: inherit; }
+button, input, textarea { font: inherit; }

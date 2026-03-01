@@ -1,0 +1,11 @@
+sb_publishable_pwgOl5xUV7W2X61fI0MhrA_1vtWg8fb Publishable key
+
+sb_secret_z_GZ8L7Lw_Qzrm7fFK3Rjw_DAqwqwgb Secret key
+
+https://supabase.com/dashboard/project/gzwhqakqicyjeveiagpv/settings/api-keys project url
+
+gzwhqakqicyjeveiagpv - code
+
+gzwhqakqicyjeveiagpv
+
+https://gzwhqakqicyjeveiagpv.supabase.co - project URL
