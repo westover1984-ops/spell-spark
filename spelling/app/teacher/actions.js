@@ -16,6 +16,7 @@ export async function createClass({ secret, code, name }) {
   const n = name.trim();
   const { data, error } = await sb.from("classes").insert({ code: c, name: n }).select("*").limit(1);
   if (error) throw new Error(error.message);
+  revalidatePath("/teacher/dashboard")
   return data[0];
 }
 
